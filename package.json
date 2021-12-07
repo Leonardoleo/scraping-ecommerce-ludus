@@ -1,0 +1,23 @@
+{
+  "name": "scraping-ecommerce-ludus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonardoleo/scraping-ecommerce-ludus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leonardoleo/scraping-ecommerce-ludus/issues"
+  },
+  "homepage": "https://github.com/Leonardoleo/scraping-ecommerce-ludus#readme",
+  "dependencies": {
+    "puppeteer": "^12.0.1"
+  }
+}
